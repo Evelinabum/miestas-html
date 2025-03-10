@@ -1,0 +1,25 @@
+.p {
+    float:right;
+     font-size: 5px;
+      margin-bottom:0;
+}
+.div{
+    width: 100%; 
+    display: flex; 
+     float:right
+}
+.div1{
+    width: 100%;
+     display: flex;
+      float:right
+}
+.div2{
+    width: 80%; 
+    display: flex; 
+     float:right;
+}
+.div3{
+    width: 150%;
+    display: block;
+    float: inline-start;
+}
