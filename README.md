@@ -1,4 +1,4 @@
-# MANO MIESTAS
+# MY CITY
 
 _website design project_
 
