@@ -1,4 +1,4 @@
-# UFO
+# MANO MIESTAS
 
 _website design project_
 
@@ -39,7 +39,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://evelinabum.github.io/54-grupe-ufo/
+    git clone https://evelinabum.github.io/miestas-html/
     ```
 2. Install NPM packages
     ```sh
@@ -60,7 +60,7 @@ There is no tests for this project.
 
 ## 🎅 Authors
 
-Evelina: [Github](https://evelinabum.github.io/54-grupe-ufo/)
+Evelina: [Github](https://evelinabum.github.io/miestas-html/)
 
 ## ⚠️ License
 
